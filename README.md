@@ -14,6 +14,10 @@ I work across backend and full-stack systems, AI and agent infrastructure, and d
 
 OMEGA / JEX is independent engineering and R&D exploring governed agent execution, authorization boundaries, state and evidence, and verification. It is not presented here as an externally adopted product.
 
+## Selected Work
+
+- [JAH Context Router](https://github.com/gemmey1020/jah-context-router) — a synthetic conformance harness for validating context-routing schemas and results. It does not perform semantic routing.
+
 ## Production Engineering
 
 My work spans workflow and ERP/workforce systems, scheduling, marketplaces, operations and logistics, and mobile/backend delivery. Client names, data, and outcome metrics are omitted unless publication rights and supporting evidence are established.

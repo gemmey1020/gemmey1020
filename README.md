@@ -17,6 +17,7 @@ OMEGA / JEX is independent engineering and R&D exploring governed agent executio
 ## Selected Work
 
 - [JAH Context Router](https://github.com/gemmey1020/jah-context-router) — a synthetic conformance harness for validating context-routing schemas and results. It does not perform semantic routing.
+- [OMEGA / JEX Evidence Model](https://github.com/gemmey1020/omega-jex-public-evidence) — a synthetic reference model for binding proposals, authorization, execution records, and verification receipts; it is not the private runtime.
 
 ## Production Engineering
 
